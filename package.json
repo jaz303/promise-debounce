@@ -1,6 +1,6 @@
 {
   "name": "promise-debounce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Debounce any promise-returning function so that at any instant only one call is pending ",
   "main": "index.js",
   "scripts": {
