@@ -16,7 +16,7 @@
     "async"
   ],
   "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jaz303/promise-debounce/issues"
   },
